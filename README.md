@@ -42,7 +42,7 @@ In this project I have chosen to work with the ESP32 development board as seen i
 ![image](https://user-images.githubusercontent.com/81012809/177135865-5f61905c-8e61-454d-8653-dd2685a37097.jpg)
 
 # Computer setup
-The device is programmed using the Arduino IDE and the C programming language, this language is ideal for embedded and IoT devices due to the low level nature of the language.
+The device is programmed using the Arduino IDE and the C and C++ programming languages, these languages are ideal for embedded and IoT devices due to the low level nature of the languages.
 
 ### Setup:
 
