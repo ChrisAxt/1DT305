@@ -48,7 +48,7 @@ The device is programmed using the Arduino IDE and the C and C++ programming lan
 
 ### Chosen IDE
 
-  **Arduino IDE installation:** ** https://www.arduino.cc/en/software
+  **Arduino IDE installation:**  https://www.arduino.cc/en/software
   
   **Plugin's needed:**
   
