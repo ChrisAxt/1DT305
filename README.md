@@ -74,7 +74,7 @@ The device is programmed using the Arduino IDE and the C and C++ programming lan
 
   **Flashing:**
   
-  - Flashing the ESP32 can be done using various fleshing tools available online or simply by holding down the Boot button and tapping the EN button. This will remove     the code that is stored in memory. Essentially a factory reset.
+  - Flashing the ESP32 can be done using various flashing tools available online or simply by holding down the Boot button and tapping the EN button. This will remove     the code that is stored in memory. Essentially a factory reset.
 
   **Uploading  code:**
   
@@ -111,7 +111,7 @@ The device is programmed using the Arduino IDE and the C and C++ programming lan
 
 **Platform functionality**
 - The platform is connected to the device via MQTT. The platform subscribes to the topic that the device publishes to.
-- The platform is also capable of polishing topics that the device can subscribe to if needed.
+- The platform is also capable of publishing topics that the device can subscribe to if needed.
 
 # The code
 
@@ -191,7 +191,7 @@ void readTempHumidity() {
 **Connectivity:**
 
 - The ESP32 is connected to the internet using a wifi connection.
-- The data is sent as a string formatted so it can be parsed to a json object which then can be accessed using the attributes of the object, this is done using the MQTT protocol and the test.mosquitto.org broker.
+- The data is sent in string format, it can then be parsed to a json object which then can be accessed using the attributes of the object, this is done using the MQTT protocol and the test.mosquitto.org broker.
 
 **Data transmission:**
 
