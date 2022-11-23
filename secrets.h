@@ -1,7 +1,7 @@
 #define SECRET
 
-const char ssid[] = "TP-Link_CD5F";
-const char pass[] = "03427996";
+const char ssid[] = "";
+const char pass[] = "";
 const char hostname[] = "WifiHostname";
 
 const char *MQTT_HOST = "test.mosquitto.org";
