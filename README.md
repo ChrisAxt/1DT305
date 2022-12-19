@@ -3,18 +3,15 @@
 Give a short and brief overview of what your project is about. What needs to be included:
 
 - **Project title:** Temperature and humidity sensor
-- **Author:** Christopher Axt ca223sp
+- **Author:** Christopher Axt
 - **Overview:** IOT Temperature and humidity monitor using an ESP32 microcontroller and DHT11 temperature and humidity sensor 
-- **Time taken:** 
-  - **Circuit connection:** Approx 1 hour
-  - **Research and code:** Approx 35 - 40 hours 
+
 
 # Objective
 I have chosen to build this device because I have plans on building a device that monitors conditions on my boat and starting with the temperature and humidity sensor give me insights on how to accomplish that.
 The purpose of this device is to monitor temperature and humidity remotely which can be used for various applications to give insights on the conditions at any given location. 
 
 # Material
-Explain all material that is needed. All sensors, where you bought them and their specifications. Please also provide pictures of what you have bought and what you are using.
 
 **List of material:**
   - ESP32 Development Board
